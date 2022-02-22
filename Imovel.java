@@ -1,4 +1,4 @@
-public class Imóvel {
+public class Imovel {
     private String endereco;
     private Double preco;
     
